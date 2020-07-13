@@ -1,4 +1,4 @@
-# @reza/react_plus_component
+# @anteniyus/react-plus-component
 
 > A general component that can add or remove a specific component and also gives you the state of all existing components.
 
@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save @reza/react_plus_component
+npm install --save @anteniyus/react-plus-component
 ```
 
 ## Usage
@@ -15,8 +15,7 @@ npm install --save @reza/react_plus_component
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from '@reza/react_plus_component'
-import '@reza/react_plus_component/dist/index.css'
+import MyComponent from '@anteniyus/react-plus-component'
 
 class Example extends Component {
   render() {
@@ -27,6 +26,6 @@ class Example extends Component {
 
 ## License
 
-MIT © [anteniyus](https://github.com/anteniyus)
+MIT © [Reza](https://github.com/anteniyus)
 =======
 # react-plus-component
