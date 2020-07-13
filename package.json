@@ -1,12 +1,12 @@
 {
   "name": "@anteniyus/react-plus-component",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A general component that can add or remove a specific component and also gives you the state of all existing components.",
   "author": "Reza",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "anteniyus/react-plus-component"
+    "url": "git+https://github.com/anteniyus/react-plus-component.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
@@ -62,5 +62,9 @@
     "dynamicity",
     "general",
     "component"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/anteniyus/react-plus-component/issues"
+  },
+  "homepage": "https://github.com/anteniyus/react-plus-component#readme"
 }

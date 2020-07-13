@@ -1,6 +1,6 @@
 # @reza/react_plus_component
 
-> a general utility for hadling add or remove a component
+> A general component that can add or remove a specific component and also gives you the state of all existing components.
 
 [![NPM](https://img.shields.io/npm/v/@reza/react_plus_component.svg)](https://www.npmjs.com/package/@reza/react_plus_component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -28,3 +28,5 @@ class Example extends Component {
 ## License
 
 MIT © [anteniyus](https://github.com/anteniyus)
+=======
+# react-plus-component
