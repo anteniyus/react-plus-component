@@ -1,10 +1,13 @@
 {
-  "name": "@reza/react_plus_component",
+  "name": "@anteniyus/react-plus-component",
   "version": "1.0.0",
-  "description": "a general utility for hadling add or remove a component",
-  "author": "anteniyus",
+  "description": "A general component that can add or remove a specific component and also gives you the state of all existing components.",
+  "author": "Reza",
   "license": "MIT",
-  "repository": "anteniyus/@reza/react_plus_component",
+  "repository": {
+    "type": "git",
+    "url": "anteniyus/react-plus-component"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
@@ -49,5 +52,15 @@
   },
   "files": [
     "dist"
+  ],
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "keywords": [
+    "react",
+    "dynamicity",
+    "general",
+    "component"
   ]
 }
