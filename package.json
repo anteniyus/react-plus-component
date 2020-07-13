@@ -1,6 +1,6 @@
 {
   "name": "@anteniyus/react-plus-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A general component that can add or remove a specific component and also gives you the state of all existing components.",
   "author": "Reza",
   "license": "MIT",
