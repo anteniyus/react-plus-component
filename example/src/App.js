@@ -17,6 +17,10 @@ export default class App extends Component {
     return this.ref.current.removeComponent()
   }
 
+  getState = () => {
+    return this.ref.current.getState()
+  }
+
   render() {
     return (
       <div>
